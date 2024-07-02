@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Megha Singh
 - 🌱 I’m currently learning ML/NLP/OpenSource
-- 📫 You can reach to reach me through meghasingh5634@gmail.com
+- 📫 You can reach to me through meghasingh5634@gmail.com
 - 😄 She/Her
 - ⚡ Fun fact: Did you know that the term "bug" for a computer glitch was coined by Grace Hopper, a pioneering computer scientist, after an actual moth caused issues in a computer she was working on?
 ### About Me
