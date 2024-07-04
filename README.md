@@ -7,8 +7,6 @@
 🌱 I'm a 3rd year student pursuing B.Tech from Noida Institute of Engineering and Technology . I'm an enthusiastic and adaptable individual with a keen interest in machine learning and a strong command of Java for Data Structures and Algorithms. I've had the pleasure of working on various projects that allowed me to explore and implement machine learning models, gaining valuable insights along the way. 
 ### What I love to do??
 🎨 I love doing crafty projects and preserving waste materials, always hopeful they'll find a creative use in the future. Making the best out of waste is my specialty!
-### GitHub streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeghaSingh-5634)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
