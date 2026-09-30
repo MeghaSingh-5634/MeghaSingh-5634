@@ -4,7 +4,7 @@
 - 😄 She/Her
 - ⚡ Fun fact: Did you know that the term "bug" for a computer glitch was coined by Grace Hopper, a pioneering computer scientist, after an actual moth caused issues in a computer she was working on!!! 😄😄😄
 ### About Me
-🌱 I'm a 4th year student pursuing B.Tech from Noida Institute of Engineering and Technology . I'm an enthusiastic and adaptable individual with a keen interest in machine learning and a strong command of Java for Data Structures and Algorithms. I've had the pleasure of working on various projects that allowed me to explore and implement machine learning models, gaining valuable insights along the way. 
+🌱 I'm an AI Engineer with a strong interest in machine learning, AI systems, and problem-solving. I enjoy building and improving intelligent systems, experimenting with different technologies, and working on real-world problems. My experience includes working with machine learning, NLP, LLMs, and AI evaluation, while continuously exploring new tools and approaches in the field. 
 ### What I love to do??
 🎨 I love doing crafty projects and preserving waste materials, always hopeful they'll find a creative use in the future. Making the best out of waste is my specialty!
 
