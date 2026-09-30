@@ -1,22 +1,26 @@
 - 👋 Hi, I’m Megha Singh
 - 🌱 I’m currently learning ML/NLP/OpenSource
-- 📫 You can reach to me through megha.singh5634@ethara.ai
+- 📫 You can reach to me through meghasingh5634@gmail.com
 - 😄 She/Her
 - ⚡ Fun fact: Did you know that the term "bug" for a computer glitch was coined by Grace Hopper, a pioneering computer scientist, after an actual moth caused issues in a computer she was working on!!! 😄😄😄
 ### About Me
-🌱 Currently working as an AI Engineer at Ethara.AI, where I work on improving and evaluating AI systems.
-
-## My work involves:
-🧠 Model Fine-Tuning & Alignment — contributing to SFT and RLHF workflows.
-🔍 AI Evaluation — working on evaluation pipelines to assess model behavior and performance.
-🧪 Experimentation & Analysis — investigating model outputs, identifying failure patterns, and improving evaluation approaches.
-⚙️ AI Engineering — working with LLM-based systems and tools to build more reliable AI solutions.
-
-## What I love to do??
+🌱 I'm an AI Engineer with a strong interest in machine learning, AI systems, and problem-solving. I enjoy building and improving intelligent systems, experimenting with different technologies, and working on real-world problems. My experience includes working with machine learning, NLP, LLMs, and AI evaluation, while continuously exploring new tools and approaches in the field. 
+### What I love to do??
 🎨 I love doing crafty projects and preserving waste materials, always hopeful they'll find a creative use in the future. Making the best out of waste is my specialty!
 
-## Let's Connect
-<p align="left"> <a href="mailto:megha.singh@eethara.ai"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+                 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
+                <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+                 </p>
+
 
 <!---
 MeghaSingh-5634/MeghaSingh-5634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
